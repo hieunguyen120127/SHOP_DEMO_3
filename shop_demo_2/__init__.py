@@ -1,3 +1,3 @@
 # import celery
-from .celery import app as celery_app
+from shop_demo_2.celery import app as celery_app
 
